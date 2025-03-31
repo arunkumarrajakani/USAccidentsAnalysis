@@ -1,0 +1,15 @@
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore all Untitled notebooks
+Untitled*.ipynb
+
+# Optional: ignore dataset files if not needed in repo
+Book2.csv
+Book2.xlsx
+cleaned_crash_data.csv
+US_Accidents_March23.csv
+
+# Python cache
+__pycache__/
+*.pyc
